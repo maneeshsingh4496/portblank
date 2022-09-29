@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Manish data
+          Learn React Manish data name
         </a>
       </header>
     </div>
