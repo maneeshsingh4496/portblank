@@ -66,10 +66,10 @@ const FeaturesSplit = ({
 
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
-                <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
+                <div className="text-xxs text-color-primary fw-600 tt-u mb-4">
                   Lightning fast workflow
                   </div>
-                <h3 className="mt-0 mb-12">
+                <h3 className="mt-0 mb-4">
                   Data-driven insights
                   </h3>
                 <p className="m-0">
@@ -92,10 +92,10 @@ const FeaturesSplit = ({
 
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
-                <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
+                <div className="text-xxs text-color-primary fw-600 tt-u mb-4">
                   Lightning fast workflow
                   </div>
-                <h3 className="mt-0 mb-12">
+                <h3 className="mt-0 mb-4">
                   Data-driven insights
                   </h3>
                 <p className="m-0">
@@ -118,10 +118,10 @@ const FeaturesSplit = ({
 
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
-                <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
+                <div className="text-xxs text-color-primary fw-600 tt-u mb-4">
                   Lightning fast workflow
                   </div>
-                <h3 className="mt-0 mb-12">
+                <h3 className="mt-0 mb-4">
                   Data-driven insights
                   </h3>
                 <p className="m-0">

@@ -44,8 +44,8 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: 'Build up the whole picture',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    title: 'Let’s work together on your next project',
+    paragraph: 'We like to develop Software & write code. We also lead a few tech teams in providing code snippet, help in providing support to tech companies.'
   };
 
   return (
@@ -70,7 +70,7 @@ const FeaturesTiles = ({
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8">
+                  <h4 className="mt-0 mb-4">
                     Robust Workflow
                     </h4>
                   <p className="m-0 text-sm">
@@ -92,7 +92,7 @@ const FeaturesTiles = ({
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8">
+                  <h4 className="mt-0 mb-4">
                     Robust Workflow
                     </h4>
                   <p className="m-0 text-sm">
@@ -114,7 +114,7 @@ const FeaturesTiles = ({
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8">
+                  <h4 className="mt-0 mb-4">
                     Robust Workflow
                     </h4>
                   <p className="m-0 text-sm">
@@ -136,7 +136,7 @@ const FeaturesTiles = ({
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8">
+                  <h4 className="mt-0 mb-4">
                     Robust Workflow
                     </h4>
                   <p className="m-0 text-sm">
@@ -158,7 +158,7 @@ const FeaturesTiles = ({
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8">
+                  <h4 className="mt-0 mb-4">
                     Robust Workflow
                     </h4>
                   <p className="m-0 text-sm">
@@ -180,7 +180,7 @@ const FeaturesTiles = ({
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8">
+                  <h4 className="mt-0 mb-4">
                     Robust Workflow
                     </h4>
                   <p className="m-0 text-sm">
