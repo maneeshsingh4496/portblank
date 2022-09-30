@@ -112,6 +112,42 @@ const Header = ({
                       navPosition && `header-nav-${navPosition}`
                     )}>
                     <li>
+                      <Link to="#0" onClick={closeMenu}>Home</Link>
+                    </li>
+                  </ul>
+                  <ul className={
+                    classNames(
+                      'list-reset text-xs',
+                      navPosition && `header-nav-${navPosition}`
+                    )}>
+                    <li>
+                      <Link to="#0" onClick={closeMenu}>About</Link>
+                    </li>
+                  </ul>
+                  <ul className={
+                    classNames(
+                      'list-reset text-xs',
+                      navPosition && `header-nav-${navPosition}`
+                    )}>
+                    <li>
+                      <Link to="#0" onClick={closeMenu}>Service</Link>
+                    </li>
+                  </ul>
+                  <ul className={
+                    classNames(
+                      'list-reset text-xs',
+                      navPosition && `header-nav-${navPosition}`
+                    )}>
+                    <li>
+                      <Link to="#0" onClick={closeMenu}>Contact</Link>
+                    </li>
+                  </ul>
+                  <ul className={
+                    classNames(
+                      'list-reset text-xs',
+                      navPosition && `header-nav-${navPosition}`
+                    )}>
+                    <li>
                       <Link to="#0" onClick={closeMenu}>Documentation</Link>
                     </li>
                   </ul>
